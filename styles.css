@@ -2,6 +2,10 @@ img {
     width: 200px;
 }
 body{
+    background-color: rgb(200,250,300);
     text-align: center;
     font-family: "Ariel";
+}
+myPopup{
+    visibility: hidden;
 }
